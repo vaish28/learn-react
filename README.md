@@ -1,8 +1,8 @@
 ## Personal Information:
 
-Full Name: Enter Your Full Name
+Full Name: Vaishnavi Sunil Madhekar
 
-Northeastern ID: Enter your Northeastern ID
+Northeastern ID: 002767741
 
 ## Getting Started
 First, fork this repository and clone it to your local machine.
